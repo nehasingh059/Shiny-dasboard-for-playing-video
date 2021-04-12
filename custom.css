@@ -1,0 +1,21 @@
+.skin-blue .main-header .logo {
+          background-color: white; /* backgorund color of the logo header part */
+         
+          height: 50px;
+
+        }
+		
+		.skin-blue .main-header .logo:hover {
+          background-color: white; /* backgorund color of the logo header part on mouse hover */
+          color:black;
+        }
+		
+		.myClass {
+        line-height: 45px;
+        text-align: center;
+        font-family: "Arial";
+        padding: 0 15px;
+        overflow: hidden;
+        color: white;
+        font-size: 35px;
+}
